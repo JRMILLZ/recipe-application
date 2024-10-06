@@ -1,0 +1,51 @@
+recipe_name,ingredient,quantity,unit,type,step_order
+Garlic Butter Chicken and Potatoes,small golden potatoes,1.5,lbs,ingredient,
+Garlic Butter Chicken and Potatoes,ghee,4,tbsp,ingredient,
+Garlic Butter Chicken and Potatoes,garlic minced,4,cloves,ingredient,
+Garlic Butter Chicken and Potatoes,fresh rosemary minced,2,tsp,ingredient,
+Garlic Butter Chicken and Potatoes,fresh thyme leave,1,tsp,ingredient,
+Garlic Butter Chicken and Potatoes,parsley minced,2,tbsp,ingredient,
+Garlic Butter Chicken and Potatoes,boneless skinless chicken thighs,1.5,lbs,ingredient,
+Garlic Butter Chicken and Potatoes,garlic powder,0.5,tsp,ingredient,
+Garlic Butter Chicken and Potatoes,onion powder,0.5,tsp,ingredient,
+Garlic Butter Chicken and Potatoes,smoked paprika,0.5,tsp,ingredient,
+Garlic Butter Chicken and Potatoes,salt,0.5,tsp,ingredient,
+Garlic Butter Chicken and Potatoes,pepper,0.5,tsp,ingredient,
+Garlic Butter Chicken and Potatoes,"To soften the potatoes before cooking on the stovetop, place them in a microwave safe bowl with about 1/4 cup of water and microwave on high for 5-6 minutes or until barely fork tender.",,,step,1
+Garlic Butter Chicken and Potatoes,"Heat a large heavy skillet over medium high heat and add 2 tablespoons of the ghee. Once hot, add the potatoes and sprinkle all over with sea salt and pepper. Cook about 2 minutes, stir, then cook another 4 minutes, stirring occasionally to evenly brown, until golden brown and tender.",,,step,2
+Garlic Butter Chicken and Potatoes,"During the last minute of cooking the potatoes, push them to the size and add the garlic, rosemary, thyme and parsley. Stir in with the potatoes and cook until potatoes are done. Once done, remove the potatoes, garlic and herbs to a bowl and set aside.",,,step,3
+Garlic Butter Chicken and Potatoes,"Add the remaining 2 tablespoons of ghee to the skillet. Season the chicken with salt and pepper, garlic powder, onion powder and smoked paprika, then add to the skillet/ Cook over med-high to high heat undisturbed for about 3 minutes or until crisp and brown on one side, then stir and continue to cook until crisp and golden brown all over, about 4-5 minutes.",,,step,4
+Garlic Butter Chicken and Potatoes,Toss the chicken with the potatoes and top with additional fresh herbs. Serve right away and enjoy!,,,step,5
+French Onion Pasta (Campbells),Butter,1,tbsp,ingredient,
+French Onion Pasta (Campbells),Thyme Leaves,1,tbsp,ingredient,
+French Onion Pasta (Campbells),Dry White Wine,0.25,cup,ingredient,
+French Onion Pasta (Campbells),Uncooked Rigatoni,8,oz,ingredient,
+French Onion Pasta (Campbells),Water,2.5,cup,ingredient,
+French Onion Pasta (Campbells),Campbells Condensed French Onion Soup,1,can,ingredient,
+French Onion Pasta (Campbells),Heavy Cream,0.25,cup,ingredient,
+French Onion Pasta (Campbells),Shredded Gruyere or Swiss Cheese,0.5,cup,ingredient,
+French Onion Pasta (Campbells),Heat butter over medium heat in 12� skillet.,,,step,1
+French Onion Pasta (Campbells),Add thyme & cook & stir 30 seconds,,,step,2
+French Onion Pasta (Campbells), Add wine,,,step,3
+French Onion Pasta (Campbells),"Add rigatoni, water & soup & heat over high heat to a boil (make sure rigatoni is submerged in soup mixture)",,,step,4
+French Onion Pasta (Campbells),Reduce heat to medium-high.,,,step,5
+French Onion Pasta (Campbells),Cook over medium-high heat until reduced by half.,,,step,6
+French Onion Pasta (Campbells),"Cook 15 min. or until rigatoni is done & most liquid is absorbed, stirring occasionally",,,step,7
+French Onion Pasta (Campbells),Stir in cream.,,,step,8
+French Onion Pasta (Campbells),Season with black pepper.,,,step,9
+French Onion Pasta (Campbells),Top mixture with cheese. Cover & let stand 3 min. before serving.,,,step,10
+Creamy Ranch Chicken,Low Sodium Chicken Broth,1,cup,ingredient,
+Creamy Ranch Chicken,Milk,0.5,cup,ingredient,
+Creamy Ranch Chicken,Sour Cream,0.25,cup,ingredient,
+Creamy Ranch Chicken,onion powder,0.5,tsp,ingredient,
+Creamy Ranch Chicken,garlic powder,0.5,tsp,ingredient,
+Creamy Ranch Chicken,italian seasoning,0.5,tsp,ingredient,
+Creamy Ranch Chicken,ranch seasoning mix,1,packet,ingredient,
+Creamy Ranch Chicken,Pound the chicken breasts to an even 1� thickness using a  and season both sides of the chicken with salt and pepper.,,,step,1
+Creamy Ranch Chicken,"In a  over medium-high heat, melt 1 tablespoon of butter and add olive oil. Sear the chicken on each side until golden brown, about 4-5 minutes per side. Remove to a plate and set aside.",,,step,2
+Creamy Ranch Chicken,Reduce heat to low and add the remaining butter. Stir in flour and cook for about one minute.,,,step,3
+Creamy Ranch Chicken,1. Pour in chicken broth and scrape up the browned bits stuck to the pan.,,,step,4
+Creamy Ranch Chicken,"Add milk, sour cream, onion powder, garlic powder, Italian seasoning and ranch seasoning mix. Stir to combine until the sour cream and ranch seasoning has fully dissolved into the sauce.",,,step,5
+Creamy Ranch Chicken,Add chicken and plate juices back to the pan and spoon the sauce over the chicken. Simmer in the sauce until the chicken is heated through and the sauce has reduced slightly.,,,step,6
+Creamy Ranch Chicken,Dish and serve hot topped with fresh parsley (optional).,,,step,7
+Creamy Ranch Chicken,Enjoy!,,,step,8
